@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @paowick
+# Hi, I'm korn 👋
+korrakrit gumnarai (korn)
 
-<!---
-paowick/paowick is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+
+## 🚀 About Me
+I'm a student.
+@Rajamangala University of Technology Thanyaburi
+
