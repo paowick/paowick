@@ -19,5 +19,5 @@ I'm a student.
 | Sat |       
 | Sun |       
 ```
-<div  align="center">![](https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif)</div>
+<p  align="center">![](https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif)</p>
 
