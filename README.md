@@ -11,13 +11,13 @@ I'm a student.
 ### Here is My class schedule
 ```
 |     |  8:00  |  9:00  | 10:00  | 11:00  | 12:00  | 13:00  | 14:00  | 15:00  | 16:00  | 17:00  | 18:00  |
-| --- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-| Mon |
-| Tue |
-| Wed |
-| Thu |
-| Fri |
-| Sat |
-| Sun |
-
+| Mon |        |-----Operating System-----|        |--Special Prob in ComNet--|                     
+| Tue |------Advanced Digital System Design--------|                        
+| Wed |                                            |-------------Server Programming-------------|         
+| Thu |        |---Com Eng Pre-Project----|                                   |------OOSE Laboratory-----|
+| Fri |                                            |---------Image and Audio Processing---------|         
+| Sat |       
+| Sun |       
 ```
+
+![](https://github.com/paowick/bocchi.gif)
