@@ -20,6 +20,6 @@ I'm a student.
 | Sun |       
 ```
 <p  align="center">
-  <img src="[demo.gif](https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif)"/>
+  <img src="https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif" alt="animated"/>
 </p>
 
