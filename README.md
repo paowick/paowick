@@ -20,4 +20,4 @@ I'm a student.
 | Sun |       
 ```
 
-![](https://github.com/paowick/bocchi.gif)
+![](https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif)
