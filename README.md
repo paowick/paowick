@@ -15,6 +15,11 @@ just a student @Rajamangala University of Technology Thanyaburi
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paowick&" alt="paowick" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=paowick&label=Profile%20views&color=0e75b6&style=flat" alt="paowick" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paowick" alt="paowick" /></a> </p>
+
+
 
 ### Here is My class schedule
 ```
