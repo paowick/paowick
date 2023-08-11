@@ -1,6 +1,6 @@
 <h1 align="center" >Hi, I'm korn 👋</h1>
 <div align="center">
-  <img  src="./SRC/GIF/anime.gif" hight="350">
+  <img  src="./SRC/GIF/anime.gif" height="350">
 </div>
 <h1 align="center" >About Me 💬</h1>
 
@@ -28,7 +28,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
 </div><br>
+
+<div align="center" >
+  <img src="./SRC/GIF/bocchi.gif" alt="animated" align="right" height="210"width="320"/>
+
+
 <h3 align="left" >It's just the most tech and languages that I've used. In this year, I'm trying to become a full-stack developer </h3>
+
+
+</div>
 
 
 
@@ -37,13 +45,10 @@
 <img src="https://raw.githubusercontent.com/paowick/paowick/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<p  align="center">
-  <img src="https://github.com/paowick/paowick/blob/main/SRC/GIF/bocchi.gif" alt="animated"/>
-</p>
-
 <a href="https://wakatime.com/@ee9f34d2-4c4e-419e-bb84-025ac7fe700b"><img src="https://wakatime.com/badge/user/ee9f34d2-4c4e-419e-bb84-025ac7fe700b.svg" alt="Total time coded since Feb 5 2023" /></a>
 <img src="https://komarev.com/ghpvc/?username=paowick&label=Profile%20views&color=0e75b6&style=flat" alt="paowick" />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
