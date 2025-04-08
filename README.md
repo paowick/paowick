@@ -6,8 +6,8 @@
 
 - **Name:** Korn (some time my friend call me "pao" or "paowick")
 - **Gender:** Male
-- **Education:** @ Rajamangala University of Technology Thanyaburi
-- **Hobbys:** Game , Anime , Music , Manga
+- **Work:** freelance @ Corno Studio [facebook fanpage](https://www.facebook.com/profile.php?id=61559285014515)  
+- **Hobbys:** Game , Anime , Music , Manga , gunpla model
 - **contry:** Thailand
 
 <h1 align="center" >Knowledge</h1>
