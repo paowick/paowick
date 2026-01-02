@@ -42,7 +42,14 @@
 
 
 
-<img src="https://raw.githubusercontent.com/paowick/paowick/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/paowick/paowick/output/snake.svg" alt="Snake animation" /> -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paowick/paowick/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paowick/paowick/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/paowick/paowick/output/pacman-contribution-graph.svg">
+</picture>
+
 
 ###
 <a href="https://wakatime.com/@ee9f34d2-4c4e-419e-bb84-025ac7fe700b"><img src="https://wakatime.com/badge/user/ee9f34d2-4c4e-419e-bb84-025ac7fe700b.svg" alt="Total time coded since Feb 5 2023" /></a>
